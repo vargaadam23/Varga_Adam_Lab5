@@ -275,6 +275,7 @@ namespace Varga_Adam_Lab5
                     phoneNumbersDataSet.RejectChanges(); MessageBox.Show(ex.Message);
                     MessageBox.Show(ex.Message);
                 }
+                //dasdasd
                 btnNew.IsEnabled = true;
                 btnEdit.IsEnabled = true;
                 btnDelete.IsEnabled = true;
